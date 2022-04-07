@@ -1,1 +1,1 @@
-# 250_project_Home_Aitomation_Arduino
+# 250_project_Home_Automation_Arduino
